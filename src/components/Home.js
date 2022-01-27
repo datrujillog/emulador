@@ -133,7 +133,7 @@ export default function Home() {
           <div className={styles.icons}>
             <button className={styles.singleIconClick}>
               <a
-                href="https://www.linkedin.com/in/federico-chavazza/"
+                href="https://www.linkedin.com/in/diego-trujillo-7004681b8"
                 id="linkedin"
                 target="_blank"
                 onClick={(e) => {
@@ -174,7 +174,7 @@ export default function Home() {
                 }}
                 id="github"
                 target="_blank"
-                href="https://github.com/FedericoChavazza"
+                href="https://github.com/yego0210"
               >
                 <img src={GIT} alt="GitHub" />
                 <div>GitHub</div>
@@ -197,7 +197,7 @@ export default function Home() {
                 }}
                 id="gmail"
                 target="_blank"
-                href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=fchavazza@gmail.com&su=Subject&body=Body%20Text"
+                href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=diegotrujillo0210@gmail.com&su=Asunto&body=Body%20Text"
               >
                 <img
                   src="https://cdn-icons-png.flaticon.com/512/281/281769.png"

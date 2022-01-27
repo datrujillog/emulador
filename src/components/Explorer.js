@@ -13,12 +13,12 @@ const Explorer = ({ isMotoG4 }) => {
         <SpoilerBox
           title="GitHub"
           isOpen={false}
-          description="FedericoChavazza"
+          description="yego0210"
         />
         <SpoilerBox
           title="Email"
           isOpen={false}
-          description="fchavazza@gmail.com"
+          description="diegotrujillo0210@gmail.com"
         />
       </div>
       <div
