@@ -1,8 +1,9 @@
 {
+  "homepage": "https://yego0210.github.io/portafolio-Emulador",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yego0210.github.io/portafolio-Emulador",
+  
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
